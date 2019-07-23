@@ -1,0 +1,1 @@
+insert into temp_table values(1,'First value');
